@@ -1,8 +1,3 @@
-# Analisis-Numerico
-Desarrollo de una aplicacion que permita calcular el error en la evaluacion de funciones
-
-## Guia de uso
-
 PROPAGACION DEL ERROR EN LA EVALUACION DE FUNCIONES
 
 

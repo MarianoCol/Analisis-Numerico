@@ -1,12 +1,11 @@
-# Analisis-Numerico
-Desarrollo de una aplicacion que permita calcular el error en la evaluacion de funciones
+class Guia():
+    def __init__(self):
+        pass
 
-## Guia de uso
-
-PROPAGACION DEL ERROR EN LA EVALUACION DE FUNCIONES
-
-
------- GUIA DE USO ------
+    def imprimirGuia(self):
+        print(
+            """
+            ------ GUIA DE USO ------
 
 Para utilizar el programa debe abrir el archivo "main.py" y ejecutarlo, al hacerlo se deplegara un
 menu con el cual se puede interactuar. 
@@ -37,3 +36,7 @@ Cuando solicite ingresar el valor para las variables se ingresa que valor quiere
 Por ultimo calcula el error absoluto
 
 Si desea finalizar el programa puede hacerlo ingresando el N° 7
+
+            ------------------------
+"""
+        )
