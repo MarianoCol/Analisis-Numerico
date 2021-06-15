@@ -18,11 +18,11 @@ Luego cuando ingrese la funcion debe hacerlo respetando las mismas variables que
 Para el ingreso de la funcion se tiene en cuenta la siguiente notacion:
 ---
 
-* -> multiplicacion
-* -> exponente
-* -> suma
-* -> resta
-* -> division
+* "*" -> multiplicacion
+* "**" -> exponente
+* "+" -> suma
+* "-" -> resta
+* "/" -> division
 * cos() -> coseno
 * sin() -> seno
 
@@ -30,10 +30,11 @@ Para el ingreso de la funcion se tiene en cuenta la siguiente notacion:
 
 ejemplo : 1/6*x*y**3
 
-Al calcular las derivadas parciales se calculara la derivada respecto cada variable y sera mostrara
+Al calcular las derivadas parciales se calculara la derivada respecto cada variable y sera mostrada
 
 Cuando solicite ingresar el valor para las variables se ingresa que valor quiere que tome cada una
 
 Por ultimo calcula el error absoluto
 
 Si desea finalizar el programa puede hacerlo ingresando el N° 7
+---
