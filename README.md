@@ -15,6 +15,7 @@ En la seccion de asignacion de variables debe ingresar con las variables con las
 por ejemplo: (x, y, p, D, d)
 
 Luego cuando ingrese la funcion debe hacerlo respetando las mismas variables que ingreso anteriormente.
+
 Para el ingreso de la funcion se tiene en cuenta la siguiente notacion:
 ---
 
