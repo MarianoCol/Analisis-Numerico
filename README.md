@@ -16,15 +16,15 @@ por ejemplo: (x, y, p, D, d)
 
 Luego cuando ingrese la funcion debe hacerlo respetando las mismas variables que ingreso anteriormente.
 Para el ingreso de la funcion se tiene en cuenta la siguiente notacion:
--------------------
+---
 
 * -> multiplicacion
-** -> exponente
-+ -> suma
-- -> resta
-/ -> division
-cos() -> coseno
-sin() -> seno
+* -> exponente
+* -> suma
+* -> resta
+* -> division
+* cos() -> coseno
+* sin() -> seno
 
 -------------------
 
